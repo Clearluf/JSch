@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="H:/Workplace/EclipseWorkplace/NetApiTest/lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="H:/Workplace/EclipseWorkplace/NetApiTest/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="H:/Workplace/EclipseWorkplace/NetApiTest/lib/fluent-hc-4.5.10.jar"/>
+	<classpathentry kind="lib" path="H:/Workplace/EclipseWorkplace/NetApiTest/lib/httpclient-4.5.10.jar"/>
+	<classpathentry kind="lib" path="H:/Workplace/EclipseWorkplace/NetApiTest/lib/httpclient-cache-4.5.10.jar"/>
+	<classpathentry kind="lib" path="H:/Workplace/EclipseWorkplace/NetApiTest/lib/httpclient-osgi-4.5.10.jar"/>
+	<classpathentry kind="lib" path="H:/Workplace/EclipseWorkplace/NetApiTest/lib/httpclient-win-4.5.10.jar"/>
+	<classpathentry kind="lib" path="H:/Workplace/EclipseWorkplace/NetApiTest/lib/httpcore-4.4.12.jar"/>
+	<classpathentry kind="lib" path="H:/Workplace/EclipseWorkplace/NetApiTest/lib/httpmime-4.5.10.jar"/>
+	<classpathentry kind="lib" path="H:/Workplace/EclipseWorkplace/NetApiTest/lib/jna-4.5.2.jar"/>
+	<classpathentry kind="lib" path="H:/Workplace/EclipseWorkplace/NetApiTest/lib/jna-platform-4.5.2.jar"/>
+	<classpathentry kind="lib" path="H:/Workplace/EclipseWorkplace/NetApiTest/lib/json-lib-2.1-jdk15.jar"/>
+	<classpathentry kind="lib" path="H:/Workplace/EclipseWorkplace/NetApiTest/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="H:/Workplace/EclipseWorkplace/NetApiTest/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="H:/Workplace/EclipseWorkplace/NetApiTest/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="H:/Workplace/EclipseWorkplace/NetApiTest/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="H:/Workplace/EclipseWorkplace/NetApiTest/lib/ezmorph-1.0.3.jar"/>
+	<classpathentry kind="lib" path="H:/Workplace/EclipseWorkplace/NetApiTest/lib/jsch-0.1.55.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
